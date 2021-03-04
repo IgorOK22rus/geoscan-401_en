@@ -21,12 +21,13 @@ This manual assumes deployment of a laptop-based ground control station (not inc
    "GPU model", "Nvidia GeForce GT645M, GT745M, 845M, GT720M, 940M and higher"
 
 Kit
-------------
+----------
 
-.. image:: _static/_images/nsu.png
-   :align: center
-   :width: 600
-   :alt: GCS kit
+* USB flash drive with software
+* Radio modem
+* Radio modem antenna
+* Radio modem pole
+
 
 Deployment and setup
 -----------------------
