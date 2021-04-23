@@ -1,17 +1,12 @@
 Camera setup
 =========================
 
-
-Sony DSC-RX1RM2 camera settings
-------------------------------------------
+Camera types depends on delivery kit.
 
 .. |icon_cam| image:: _static/_images/icon_cam.png
     :width: 25
 
 .. |icon_key| image:: _static/_images/icon_key.png
-    :width: 25
-
-.. |icon_sd| image:: _static/_images/icon_sd.png
     :width: 25
 
 .. |icon_set| image:: _static/_images/icon_set.png
@@ -20,97 +15,177 @@ Sony DSC-RX1RM2 camera settings
 .. |icon_bag| image:: _static/_images/icon_bag.png
     :width: 25
 
-Carefuly read camera's `operating instructions <https://www.sony.com/electronics/support/res/manuals/4469/44695771M.pdf>`_ to know about main control elements and functions before make settings.
+.. |icon_sd| image:: _static/_images/icon_sd.png
+    :width: 25
 
-* Set Mode dial in **S** (Shutter Priority) position.
-* Use Montrol dial to set exposition **1/1000**.
-* Set Exposure compensation dial in **0** (zero) position.
-* Set Macro switching ring in **0,3m-∞** position.
-* Set Focus mode dial in **MF** position.
+Sony DSC-RX1RM2 Settings
+------------------------------------------
 
-Press **MENU** button to see settings menu and set this parameters:
+Before changing any settings, carfully read `Camera Operating Instructions <https://www.sony.com/electronics/support/res/manuals/4579/45798651M.pdf>`_ to get information about functions and control elements.
 
-* In Custom menu |icon_set| (tab 1) set **Auto Review — Off**.
+* Set mode to **S** (Exposure priority) by mode dial.
+* Set exposure **1/800**  by control dial.
+* Set exposure to **0** (Zero) by exposure compensation dial.
+* Set macro to **0,3m-∞** by macro switching ring.
+* Set focus mode dial to **MF**.
 
-.. figure:: _static/_images/menu2.png
+To set camera parameters, push **MENU** button, then select parameters according to the following instructions.
+
+* Turn off **Auto review** in |icon_set| user settings menu (tab 2) and set **MOVIE Button** — **Movie Mode Only** (tab 6).
+
+.. figure:: _static/_images/menu2_en.png
    :width: 400
    :align: center
 
-   Auto Review off
+   Auto review off
 
-* In tab 2 set **MF Assist — Off** and **Focus Magnif. Time — No limit**.
 
-.. figure:: _static/_images/menu13.png
+.. figure:: _static/_images/menu_en.png
    :width: 400
    :align: center
 
-   MF Assist is off and Focus Magnif. Time 
+   Movie mode only for MOVIE Button
 
-* In tab 3 set **MOVIE Button — Movie Mode Only**.
 
-.. figure:: _static/_images/menu11.png
+
+* In |icon_bag| settings set **Pwr Save Start Time** — **30 min** (tab 2) and **File Number** — **Reset** (tab 5).
+
+.. figure:: _static/_images/Pwr_save_en.png
    :width: 400
    :align: center
 
-   Set mode movie mode only for MOVIE button
+   Power save time setting
 
 
-* In Setup menu |icon_key| set **Power Saving Start Time — 30 min** (tab 2). 
-
-.. figure:: _static/_images/menu1.png
-   :width: 400
-   :align: center
-
-   Power Saving Start Time
-
-
-* In Memory card tool menu |icon_sd| set **File number — Reset**.
-
-.. figure:: _static/_images/menu3.png
+.. figure:: _static/_images/number_en.png
    :width: 400
    :align: center
 
    File number reset
 
 
-* Press **Fn** (Function) button to set these settings:
+Other settings should not be changed as they are used in default mode.
 
-.. csv-table:: 
+
+**SD Card Formating**
+
+* In |icon_bag| settings menu (tab 5) select **Format**.
+
+.. figure:: _static/_images/format_en.png
+   :width: 400
    :align: center
-   
-   "**Drive Mode**", "**Single Shooting**"
-   "**White Balance**", "**Auto AWB**"
 
-Select **ISO** - **Auto** and set:
+   «Format» option
 
-.. csv-table:: 
+
+.. attention::  All data on SD card will be deleted!
+
+
+**Settings reset**
+
+1) In |icon_bag| settings menu (tab 6) select **Setting Reset**
+
+.. figure:: _static/_images/reset_en.png
+   :width: 400
    :align: center
-   
-   "**ISO Minimum**", "**100**"
-   "**ISO Maximum**", "**1600**"
 
-Keep default parameters for other camera settings.
-
-**Format SD card**
-
-1) Select **MENU →** |icon_sd| [SD Card] **→ Format**
-
-.. attention::  All data will be deleted!
+   «Setting reset» option
 
 
-**Reset** 
+.. attention::  Do not remove the battery during a reset process!
 
-To reset all settings set:
+2) After camera reboot, you need to set **Timezone and date**, otherwise the settings will not be saved and this menu will appear at every turn on.
 
-1) Select **MENU** → |icon_key| **[Settings]**→ Initialize  → Reset Default**
+3) Use ON/OFF switcher to turn the camera off.
+4) Wait 3 minutes for all settings to be saved (do not disconnect the battery or power cord).
 
-.. attention::  Do not remove the battery while resetting the settings!
 
-2) Set date and time after reset. Camera settings will not be saved, if you skiped that action.
-3) Use **ON/OFF** switcher to turn off the camera. 
-4) Do not disconnect the camera from AC or battery for 3 minutes to save the settings in the internal memory.
+.. important:: **«E:61:00»** error may appear on the screen, as the camera is focused to infinity. **This message will not interfere with camera's function**.
 
-.. important:: The camera can display the message **E:61:00**. It means that the camera is focused on maximum range. The camera still works correctly.
+
+
+
+
+Sony DSC-RX1 Settings
+------------------------------------------
+
+Before changing any settings, carfully read `Camera Operating Instructions <https://www.sony.com/electronics/support/res/manuals/4469/44695771M.pdf>`_ to get information about functions and control elements.
+
+* Set mode to **S** (Exposure priority) by mode dial.
+* Set exposure **1/800**  by control dial.
+* Set exposure to **0** (Zero) by exposure compensation dial.
+* Set macro to **0,3m-∞** by macro switching ring.
+* Set focus mode dial to **MF**.
+
+To set camera parameters, push **MENU** button, then select parameters according to the following instructions.
+
+
+
+* In user settings menu |icon_set| (tab 1) turn off **Automatic preview**.
+
+.. figure:: _static/_images/menu2.png
+   :width: 400
+   :align: center
+
+   Turn off automatic preview
+
+* Turn off **RF assist** and set **Extend focus time** - **No restrictions** (2 tab).
+
+.. figure:: _static/_images/menu13.png
+   :width: 400
+   :align: center
+
+   Turn off RF assist and focus time extend setting.
+
+* Set **MOVIE** - **Video mode only** (tab 3).
+
+.. figure:: _static/_images/menu11.png
+   :width: 400
+   :align: center
+
+   Set video mode only
+
+
+* In settings menu |icon_key| tab 2 set **Power saving time** - **30 min** .
+
+.. figure:: _static/_images/menu1.png
+   :width: 400
+   :align: center
+
+   Power saving time 
+
+
+* In memory card menu |icon_sd| select**File №** - **Clear**.
+
+.. figure:: _static/_images/menu3.png
+   :width: 400
+   :align: center
+
+   Clear file number
+
+Other settings should not be changed as they are used in default mode.
+
+**SD Card Formating**
+
+1) Select **MENU →** |icon_sd| **[Memory card]** **→ Format**
+
+
+**All Settings Reset**
+
+Follow these steps to set default settings:
+
+1) Select **MENU** → **Settings menu** → **INITIALISATION** → **Reset**
+
+.. attention::  Do not remove the battery during a reset process!
+
+2) After camera reboot, you need to set **Timezone and date**, otherwise the settings will not be saved and this menu will appear at every turn on.
+
+3) Use ON/OFF switcher to turn the camera off.
+4) Wait 3 minutes for all settings to be saved (do not disconnect the battery or power cord).
+
+
+.. important:: **«E:61:00»** error may appear on the screen, as the camera is focused to infinity. **This message will not interfere with camera's function**.
+
 
 
 Offset coordinates
@@ -124,4 +199,4 @@ The amount of offset should be taken, when you generate ortophotomaps and 3D mod
    :align: center
    :width: 600
 
-   Offsets coordinates for Sony DSC-RX1RM2 camera
+   Offsets coordinates for Sony DSC-RX1/RX1RM2 camera
