@@ -7,26 +7,24 @@ Geoscan 401. Assembly and application
 =======================================
 
 General information
-------------------------
+======================
 
 .. image:: _static/_images/401.png
    :width: 400
    :align: center
 
-Geoscan 401 is multifunctional system, that included multirotor unmanned aerial vehicle (UAV) and Geoscan Planner software in basic kit.
-
-
+Geoscan 401 — multifunctional system, that included in basic kit multirotor unmanned aerial vehicle (UAV) and Geoscan Planner software.
 
 Kit
-_________
+-----------------------
 
 * Geoscan 401 unmanned aerial vehicle (UAV) 
-* UAV transport case
+* UAV's transport container 
 * Payload: *
 
    * customized Sony DSC-RX1RM2 camera;
    * gyro-stabilized optical-electronic system with FullHD videocamera;
-   * GNSS receiver Topcon B111 (L1-L2, GPS/GLONASS/BeiDou);
+   * Topcon B111 GNSS receiver (L1-L2, GPS/GLONASS/BeiDou);
    * quantum magnitometer Geoscan QM-Rb-1.
 
 * 37 V LiPo battery 
@@ -47,11 +45,11 @@ _________
 
 
 Specifications
-____________________
+-----------------
 
 
 +--------------------------------------------+---------------------------------------------------------------------------+
-|                   UAV type                 |                                 multirotor                                |
+|                  UAV type                  |                                 multirotor                                |
 +--------------------------------------------+---------------------------------------------------------------------------+
 |                   Engine                   |                     electric brushless — 4 PCs                            |
 +--------------------------------------------+---------------------------------------------------------------------------+
@@ -59,11 +57,11 @@ ____________________
 +--------------------------------------------+---------------------------------------------------------------------------+
 |                Launch/Landing              |              verticaly, in automatic mode, from/to 5 m area               |
 +--------------------------------------------+---------------------------------------------------------------------------+
-|                Flight duration             |                             up to 1 h                                     |
+|                Flight duration             |                            up to 1 h                                      |
 +--------------------------------------------+---------------------------------------------------------------------------+
 |                 Max wind speed             |                                  12 m/s                                   |
 +--------------------------------------------+---------------------------------------------------------------------------+
-|                  Flight speed              |                             0-50 km/h                                     |
+|                 Speed of flight            |                             0-50 km/h                                     |
 +--------------------------------------------+---------------------------------------------------------------------------+
 |            Min safe flight altitude        |                                  25 m                                     |
 +--------------------------------------------+---------------------------------------------------------------------------+
@@ -71,9 +69,9 @@ ____________________
 +--------------------------------------------+---------------------------------------------------------------------------+
 |                Max takeoff weight          |                                9,3 kg                                     |
 +--------------------------------------------+---------------------------------------------------------------------------+
-|               Max payload weight           |                                2,5 kg                                     |
+|               Max payload mass             |                                2,5 kg                                     |
 +--------------------------------------------+---------------------------------------------------------------------------+
-|               Preparation time             |                                 5 min                                     |
+|    Preparation time before takeoff         |                                 5 min                                     |
 +--------------------------------------------+---------------------------------------------------------------------------+
 |                                            |                             folded  70х25х20 cm                           |
 |         UAV's overall dimensions           +---------------------------------------------------------------------------+
@@ -86,36 +84,34 @@ ____________________
 |                                            |      5 cm/pix quality                |    2,1 km²                         |
 +--------------------------------------------+---------------------------------------------------------------------------+
 |                                            |                                -20 to +40 °C                              |
-+        Operating temperature range         +---------------------------------------------------------------------------+
++        Operating temperature range:        +---------------------------------------------------------------------------+
 |                                            |                        -40 to +20 °C  ("Arctic" battery)                  |
 +--------------------------------------------+---------------------------------------------------------------------------+
 
 
 
 Maintenance
-_________________
-
+-------------------
 
 Visually inspect UAV for a damage after each flight.
 
-In case, if a propellers are damaged, you can replace it by using spare parts and tools from the kit.
+In case, if a propellers are damaged, you can replace it by yourself using spare parts and tools from the kit.
 
 If structural damage to the airframe or systems is detected, contact `Geoscan support <https://www.geoscan.aero/en/support>`_.
 
-We recommended to send UAV to the manufacturer for inspection and maintenance after 80 flights.
+We recommended to send your UAV to the manufacturer for inspection and maintenance after 80 flights.
 
 
 
 Storage
-____________
+-------------
 
+Geoscan 401 UAV (without battery) are recommended to be stored in a transport containers in dry rooms at a temperature of 5 to 25 °C and relative humidity not more than 80% without condensation. Service life — 2 years.
 
-Geoscan 401 UAV (without battery) are recommended to be stored in a transport containers in dry rooms at a temperature of +5 to +25 °C and relative humidity not more than 80% without condensation. 
-Service life — 2 years.
+Batteries should be stored in a cool and dry place without direct sunlight, at a temperature of 5 to 25 °C and a relative humidity of 80% without condensation. The optimum voltage level when placing the battery to storage: 38,5 V. 
 
-Batteries should be stored in a cool and dry place, without direct sunlight, at a temperature of +5 to +25 °C and a relative humidity of 80% without condensation. 
-The optimum voltage level when placing the battery to storage: 38,5 V. 
 Service Life — 1 year.
+
 
 .. toctree::
    :maxdepth: 2
