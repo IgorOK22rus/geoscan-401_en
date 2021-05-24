@@ -116,7 +116,7 @@ Service Life — 1 year.
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Content:
+   :caption: Contents
 
 
    reference
