@@ -38,7 +38,7 @@ Geoscan UAVs are equipped with 2 presets for Sony DSC-RX1RM2 cameras.
 
 Use **Mode dial** near ``on\off`` switcher to select preset for your needs.
 
-*Preset 1* serves for shooting in normal daylight conditions. The aperture value is fixed, which provides fixed exposure of photos for better ortophotomosaic generation.
+*Preset 1* serves for shooting in normal daylight conditions. The aperture value is fixed, which provides fixed aperture for better ortophotomosaic generation.
 
 Use these settings for this mode:
 
@@ -48,12 +48,13 @@ Use these settings for this mode:
 * Set **Macro switching ring** in **0,3m-∞** position.
 * Set **Aperture ring** in **4,5** (first mark after 4)
 
-*Preset 2* — universal set with automatic variable exposure control (Shutter Priority).
+*Preset 2* — universal set with automatic variable aperture control (Shutter Priority).
 
 Use these settings for this mode:
 
 * Set **Mode dial** in **2** position.
 * Set **Focus mode dial** in **MF** position.
+* Set **Exposure compensation dial** in **0** position.
 * Set **Macro switching ring** in **0,3m-∞** position.
 
 The aperture value is not taken into account.
@@ -183,7 +184,7 @@ Basic camera control elements are shown on the picture:
 * Set **Macro switching ring** in **0,3m-∞** position.
 * Set **Focus mode dial** in **MF** position.
 
-* For normal daylight conditions switch **Mode dial** in **M** (Manual exposure control) position and **Aperture ring** in **4,5** (first mark after 4) position.
+* For normal daylight conditions switch **Mode dial** in **M** (Manual aperture control) position and **Aperture ring** in **4,5** (first mark after 4) position.
 * For cloudy weather switch **Mode dial** in **S** (Shutter priority) position. The aperture value is not taken into account in this mode.
 
 
