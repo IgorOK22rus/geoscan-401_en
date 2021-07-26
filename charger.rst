@@ -4,7 +4,7 @@ Charger and battery
 .. csv-table:: **Battery Specifications**
    
    "Guaranteed number of charge-discharge cycles", "50"
-   "Recommended charge current", "5 V"
+   "Recommended charge current", "8 A"
    "Higher charge voltage", "42 V"
    "Normal voltage", "37 V"
    "Lower discharge voltage", "30 V"
